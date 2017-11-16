@@ -48,8 +48,8 @@ export default function () {
         linkMatches = [],
         anchorMatches = [],
         emailPattern = /\b[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z]{2,3}/g,
-//         linkAddressPattern = /\b(https?:\/\/)?\b([a-zA-Z]{2,3}\.)?\w+\.[a-zA-Z]{2,3}\b/g,
-        linkAddressPattern = /(ftp:\/\/|www\.|https?:\/\/){1}[a-zA-Z0-9u00a1-\uffff0-]{2,}\.[a-zA-Z0-9u00a1-\uffff0-]{2,}(\S*)/g,
+        linkAddressPattern = /\b(https?:\/\/)?\b([a-zA-Z]{2,3}\.)?\w+\.[a-zA-Z]{2,3}\b/g,
+        // linkAddressPattern = /(ftp:\/\/|www\.|https?:\/\/){1}[a-zA-Z0-9u00a1-\uffff0-]{2,}\.[a-zA-Z0-9u00a1-\uffff0-]{2,}(\S*)/g,
         linkTextPattern = />.+<\/a>/g,
         anchorPattern = /<a .*?>.*?<\/a>/g,
         textString = this.textInput.value;
@@ -92,7 +92,7 @@ export default function () {
             //Get link and text and save in variable
             var hrefInAnchor = anchorMatches[i].match(linkAddressPattern).toString();
             var textInAnchor = anchorMatches[i].match(linkTextPattern).toString();
-          }
+
           textInAnchor = textInAnchor.slice(1, textInAnchor.length - 4);
           linkMatches.push({
             url: hrefInAnchor,
@@ -102,7 +102,7 @@ export default function () {
           //Remove Anchor Matches from textString
           textString = textString.replace(anchorMatches[i], '');
         }
-
+      }
 
         /////////////// OPTIONAL LINKS //////////////////////////
         //Get another Links without Anchortag
