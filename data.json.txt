@@ -1,0 +1,454 @@
+[
+  {
+    "nodeId": "O-1",
+    "parentNodeId": null,
+    "width": 650,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 204,
+      "green": 209,
+      "blue": 79,
+      "alpha": 0.75
+    
+    },
+    "nodeImage": {
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n    color:#000000db;\n                          margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">i+R Gruppen Organisations Diagramm</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": true
+  },
+  {
+    "nodeId": "O-2",
+    "parentNodeId": "O-1",
+    "width": 331,
+    "height": 139,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n        color:#000000d4;\n                         margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Bauen</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false
+   
+  },
+  {
+    "nodeId": "O-3",
+    "parentNodeId": "O-1",
+    "width": 348,
+    "height": 147,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url":"https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n          color:#000000d4;\n                        margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Immobilien</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false
+  },
+  {
+    "nodeId": "O-4",
+    "parentNodeId": "O-1",
+    "width": 345,
+    "height": 140,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url":"https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n       color:#000000d4;\n                           margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Bagger</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false
+  },
+  {
+    "nodeId": "O-5",
+    "parentNodeId": "O-1",
+    "width": 311,
+    "height": 134,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url":"https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n    color:#000000d4;\n                            margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">Konzern</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false
+  },
+  
+  {
+    "nodeId": "O-6",
+    "parentNodeId": "O-2",
+    "width": 311,
+    "height": 134,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url":"https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n    color:#000000d4;\n                            margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">i+R Bau</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": true
+  },
+  {
+    "nodeId": "O-7",
+    "parentNodeId": "O-2",
+    "width": 311,
+    "height": 134,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url":"https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n    color:#000000d4;\n                            margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">i+R Industrie- & Gewerbebau</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": true
+  },
+  {
+    "nodeId": "O-8",
+    "parentNodeId": "O-2",
+    "width": 311,
+    "height": 134,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url":"https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n                  <div style=\"margin-left:70px;\n    color:#000000d4;\n                            margin-top:10px;\n                              font-size:20px;\n                              font-weight:bold;\n                         \">i+R Holbau</div>\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:16px;\n                         \">  </div>\n\n                 <div style=\"margin-left:70px;\n                              margin-top:3px;\n                              font-size:14px;\n                         \"></div>\n\n                 <div style=\"margin-left:196px;\n                             margin-top:15px;\n                             font-size:13px;\n                             position:absolute;\n                             bottom:5px;\n                            \">\n                      <div></div>\n                      <div style=\"margin-top:5px\"></div>\n                 </div>\n              </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": true
+  },
+  {
+    "nodeId": "O-8",
+    "parentNodeId": "O-2",
+    "width": 311,
+    "height": 134,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 0,
+      "green": 0,
+      "blue": 0,
+      "alpha": 8
+    },
+    "backgroundColor": {
+      "red": 255,
+      "green": 236,
+      "blue": 0,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url":"https://www.ir-wohnbau.com/bundles/app/housing/images/logos/logo-ir.png",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "ROUNDED",
+      "shadow": true,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "template": "<div>\n <div style=\"margin-left:70px;\n color:#000000d4;\n margin-top:10px;\n font-size:20px;\n  font-weight:bold;\n  \">i+R Fensterbau</div>  </div>",
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": true
+  }
+]
